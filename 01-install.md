@@ -48,14 +48,10 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 2; while I understand that support for Python 2 will be discontinued in 2020, all of the Python learning resources that I've used so far have been in Python 2 (e.g., Learn Python the Hard Way, Complete Python Bootcamp)
 
 ###Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
-
-
+>> When running the Python interpreter from the command line, the first line will display the Python version (e.g., Python 2.7.11). Alternatively, can use the direct command python -V.    		

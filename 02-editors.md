@@ -60,7 +60,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Currently using vim, due to it being the default editor for Git Bash (in Windows) and its prevalence in UNIX systems
 
 --
 
@@ -68,6 +68,14 @@ What terminal editor will you use? How did you make your decision?
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Primarily have experience using Jupyter Notebooks, but am currently also testing these in order of preference:
+>> * Spyder - Comes with Anaconda distribution and is similar to RStudio (which I have experience with)
+>> * Pycharm - Highly recommended by developer friend
+>> * Sublime - Straightforward and comes with Anaconda package for Python development
+
+>> For Spyder:
+>> * Interesting features: Matplotlib figures integration, documentation viewer (shows for class and function calls), and variable explorer/editor
+>> * Useful keyboard shortcuts: F5 for running the entire script, F9 to run selection or current line
+>> * Customization: None so far
 
  
