@@ -52,6 +52,7 @@ What do the following commands do:
 >> * ls -lah: Lists contents of the directory (including hidden, i.e., entries starting with .) with details, size in human readable format (e.g., kilobytes, megabytes, etc.)
 >> * ls -t: Lists contents of the directory sorted by date/time, newest first
 >> * ls -Glp: Lists contents of the directory with details (long listing format), without group names, and with "/" appended to directories
+
 ---
 
 ###Q3.  More List Files in Unix  
