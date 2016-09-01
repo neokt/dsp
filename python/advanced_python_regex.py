@@ -16,7 +16,7 @@ def df_finder(df, col, pattern, sep):
 
 def unique_elements(elements):
     '''
-    Uses the Counter subclass to print the frequencies of each element
+    Uses Counter to print the frequencies of each element
     '''
     # create a counter object for the list
     c = Counter(elements)
@@ -37,9 +37,15 @@ def answer(col, pattern, sep, clean = None):
     unique_elements(search)
 
 def find_email():
+    '''
+    Returns emails found in the dataframe as a list
+    '''
     return list(faculty.email)
 
 def find_domain(emails, sep = '@'):
+    '''
+    Splits a list of e-mails and identifies unique domain names
+    '''
     domains = [re.split(sep, e)[1] for e in emails]
     unique_elements(domains)
 

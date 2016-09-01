@@ -20,7 +20,9 @@ This data is available in this file:  [faculty.csv](python/faculty.csv)
 ####Q1. Find how many different degrees there are, and their frequencies: Ex:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
 
 >> There are 9 unique elements and 46 elements in total.
+
 >> Unique elements: ['0', 'BSEd', 'JD', 'MA', 'MD', 'MPH', 'MS', 'PhD', 'ScD']
+
 >> Frequencies: Counter({'PhD': 31, 'ScD': 6, 'MPH': 2, 'MS': 2, 'MD': 1, 'MA': 1, 'BSEd': 1, '0': 1, 'JD': 1})
 
 >> Note: The '0' element is likely a data entry error, and thus should be ignored. If so, there are hence 8 unique elements.
@@ -32,7 +34,9 @@ This data is available in this file:  [faculty.csv](python/faculty.csv)
 ####Q2. Find how many different titles there are, and their frequencies:  Ex:  Assistant Professor, Professor
 
 >> There are 3 unique elements and 37 elements in total.
+
 >> Unique elements: ['Assistant Professor', 'Associate Professor', 'Professor']
+
 >> Frequencies: Counter({'Professor': 13, 'Assistant Professor': 12, 'Associate Professor': 12})
 
 
@@ -43,7 +47,9 @@ This data is available in this file:  [faculty.csv](python/faculty.csv)
 ####Q4. Find how many different email domains there are (Ex:  mail.med.upenn.edu, upenn.edu, email.chop.edu, etc.).  Print the list of unique email domains.
 
 >> There are 4 unique elements and 37 elements in total.
+
 >> Unique elements: ['cceb.med.upenn.edu', 'email.chop.edu', 'mail.med.upenn.edu', 'upenn.edu']
+
 >> Frequencies: Counter({'mail.med.upenn.edu': 23, 'upenn.edu': 12, 'email.chop.edu': 1, 'cceb.med.upenn.edu': 1})
 
 Place your code in this file: [advanced_python_regex.py](python/advanced_python_regex.py)
